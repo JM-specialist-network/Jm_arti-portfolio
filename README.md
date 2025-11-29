@@ -16,14 +16,15 @@
 
 ## 📊 Selected Projects / Proyectos destacados
 
-- **TFM – AI Financial Recommender with RAG (Python & Streamlit)**  
-  Multi-agent AI system to support financial decisions (farmers and inclusive finance), using LLMs, RAG and an interactive Streamlit dashboard.
+## 📁 Projects Overview / Resumen de proyectos
 
-- **Power BI Dashboards**  
-  Dashboards for monitoring financial, operational and business KPIs, with clear visual narratives and actionable insights. 
+| Type / Tipo | Project / Proyecto | Tech stack | Link |
+|------------|--------------------|-----------|------|
+| Python     | TFM – AI Financial Recommender with RAG | Python, Streamlit, LLMs, RAG, Pandas, NumPy | _Coming soon_ |
+| Python     | Undergraduate Thesis (TFG) – Data Analysis Project | Python, data analysis, visualization | _Coming soon_ |
+| R          | R Analytics & Time Series | R, tidyverse, time series, econometrics | _Coming soon_ |
+| Power BI   | Financial & Business Dashboards | Power BI, DAX, data modelling | _Coming soon_ |
 
-- **R & Python Analytics**  
-  Notebooks with statistical and econometric analysis, time series and machine learning applied to economic and business data. 
 
 ## 📫 Contact
 
