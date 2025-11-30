@@ -16,12 +16,15 @@
 
 ## 📊 Selected Projects / Proyectos destacados
 
-## 📁 Projects Overview / Resumen de proyectos
-
 | Type / Tipo | Project / Proyecto | Tech stack | Link |
 |------------|--------------------|-----------|------|
 | Python     | TFM – AI Financial Recommender with RAG | Python, Streamlit, LLMs, RAG, Pandas, NumPy | _Coming soon_ |
 | Python     | Undergraduate Thesis (TFG) – Data Analysis Project | Python, data analysis, visualization | _Coming soon_ |
+
+## 📁 Projects Overview / Resumen de proyectos
+
+| Type / Tipo | Project / Proyecto | Tech stack | Link |
+|------------|--------------------|-----------|------|
 | R          | R Analytics & Time Series | R, tidyverse, time series, econometrics | _Coming soon_ |
 | Power BI   | Financial & Business Dashboards | Power BI, DAX, data modelling | _Coming soon_ |
 | Power BI   | Marketing Analytics – Curso Datahack | Power BI, DAX, data modelling, dashboards | [Repo](https://github.com/JM-specialist-network/powerbi-datahack-project/) |
