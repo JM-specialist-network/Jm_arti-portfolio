@@ -31,6 +31,8 @@
 | Power BI   | SuperStore Sales & Returns Dashboard | Power BI, DAX, data modelling, maps, sales & returns analytics | [Enlace](https://github.com/JM-specialist-network/powerbi-superstore) ||
 | Power BI   | Marketing Analytics – Curso Datahack | Power BI, DAX, data modelling, dashboards | [Enlace](https://github.com/JM-specialist-network/powerbi-datahack-project/) |
 | Dialogflow | Restaurant Booking Bot | Dialogflow ES, intents, entities, simple booking flow | [Enlace](https://github.com/JM-specialist-network/dialogflow-restaurant-booking-bot) |
+| Python     | Spatial Analytics – Madrid Tourism (Sample) | Python, GeoPandas, Folium, spatial joins, choropleth maps, GIS | [Enlace](https://github.com/JM-specialist-network/python-gis-madrid-tourism) |
+
 
 ## 📫 Contact
 
