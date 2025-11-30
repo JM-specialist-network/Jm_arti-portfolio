@@ -24,6 +24,7 @@
 | Python     | Undergraduate Thesis (TFG) – Data Analysis Project | Python, data analysis, visualization | _Coming soon_ |
 | R          | R Analytics & Time Series | R, tidyverse, time series, econometrics | _Coming soon_ |
 | Power BI   | Financial & Business Dashboards | Power BI, DAX, data modelling | _Coming soon_ |
+| Power BI   | Marketing Analytics – DH Marketing Consultants | Power BI, DAX, data modelling, dashboards | [Repo](https://github.com/JM-specialist-network/powerbi-datahack-project/) |
 
 
 ## 📫 Contact
