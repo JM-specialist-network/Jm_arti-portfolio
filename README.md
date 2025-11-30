@@ -25,7 +25,7 @@
 
 | Type / Tipo | Project / Proyecto | Tech stack | Link |
 |------------|--------------------|-----------|------|
-| R          | R Analytics & Time Series | R, tidyverse, time series, econometrics | _Coming soon_ |
+| R          | R Analytics & Time Series | R, tidyverse, time series, econometrics, macroeconomics | [Enlace](https://github.com/JM-specialist-network/r-finland-economy-quarto/)|
 | Power BI   | SuperStore Sales & Returns Dashboard | Power BI, DAX, data modelling, maps, sales & returns analytics | [Enlace](https://github.com/JM-specialist-network/powerbi-superstore) ||
 | Power BI   | Marketing Analytics – Curso Datahack | Power BI, DAX, data modelling, dashboards | [Enlace](https://github.com/JM-specialist-network/powerbi-datahack-project/) |
 
