@@ -12,7 +12,7 @@
 - Data: limpieza de datos, EDA, visualización, reporting  
 - BI & Reporting: cuadros de mando en Power BI, KPIs, informes ejecutivos  
 - Web & Apps: dashboards y aplicaciones de datos con Streamlit  
-- Domain / Dominio: economía, finanzas, administración y procesos de negocio. Experiencia con agentes de IA por el proyecto de mmi TFM.
+- Domain / Dominio: economía, finanzas, administración y procesos de negocio. Experiencia con agentes de IA por el proyecto de mi TFM.
 
 ## 📊 Selected Projects / Proyectos destacados
 
