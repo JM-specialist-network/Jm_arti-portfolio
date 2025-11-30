@@ -20,6 +20,8 @@
 |------------|--------------------|-----------|------|
 | Python     | TFM – AI Financial Recommender with RAG | Python, Streamlit, LLMs, RAG, Pandas, NumPy | _Coming soon_ |
 | Python     | Undergraduate Thesis (TFG) – Data Analysis Project | Python, data analysis, visualization | _Coming soon_ |
+| Python     | Santander Banking EDA | Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, statistical analysis | [Enlace](https://github.com/JM-specialist-network/python-santander-eda) |
+
 
 ## 📁 Projects Overview / Resumen de proyectos
 
