@@ -18,7 +18,7 @@
 
 | Type / Tipo | Project / Proyecto | Tech stack | Link |
 |------------|--------------------|-----------|------|
-| Python     | TFM – AI Financial Recommender with RAG | Python, Streamlit, LLMs, RAG, Pandas, NumPy | _Pronto, a la espera de calificación por tribunal_ |
+| Python     | Pills from TFM – AI Financial Recommender with RAG | Python, Streamlit, LLMs, RAG, Pandas, NumPy | [Enlace](https://github.com/JM-specialist-network/tfm-financial-recommender-system) |
 | Python     | Undergraduate Thesis (TFG) – Data Analysis Project | Python, data analysis, visualization | [Enlace](https://github.com/JM-specialist-network/TFG-Concentracion-Bancaria-Espana) |
 | Python     | Santander Banking EDA | Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, statistical analysis | [Enlace](https://github.com/JM-specialist-network/python-santander-eda) |
 | Python     | Deep Learning: Housing Price Prediction | Python, TensorFlow, Keras, neural networks, L1/L2/Dropout regularization, RMSE | [Enlace](https://github.com/JM-specialist-network/python-deep-learning-housing-prices) |
